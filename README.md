@@ -1,1 +1,1 @@
-The code of COLA will release soon.
+The code of COLA will be released soon.
